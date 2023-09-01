@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:08,100
+In this lecture we are gonna cover the pharmacology of immunosuppressants, so let's get right
+
+2
+00:00:08,100 --> 00:00:09,400
+into it.
+
+3
+00:00:09,400 --> 00:00:14,000
+The immune system is a complex network of cells and proteins that work together to defend
+
+4
+00:00:14,000 --> 00:00:18,720
+the body against substances it sees as harmful or foreign.
+
+5
+00:00:18,720 --> 00:00:23,840
+Now the human immune system has two levels of immunity, innate and adaptive.
+
+6
+00:00:23,840 --> 00:00:29,500
+The innate immunity is nonspecific and fast-acting, and serves as the primary line of protection
+
+7
+00:00:29,500 --> 00:00:31,980
+against pathogen invasion.
+
+8
+00:00:31,980 --> 00:00:36,620
+Numerous cells are involved in the innate immune response, including natural killer
+
+9
+00:00:36,620 --> 00:00:42,580
+cells, mast cells and granulocytes, as well as the phagocytic cells such as macrophages,
+
+10
+00:00:42,580 --> 00:00:48,140
+dendritic cells and monocytes, that utilize phagocytosis and are equipped with receptors
+
+11
+00:00:48,140 --> 00:00:53,760
+which recognize a variety of microbial products known as antigens, resulting in activation
+
+12
+00:00:53,760 --> 00:00:59,000
+of the slower-acting, but more specific, adaptive immune system.
+
+13
+00:00:59,000 --> 00:01:03,920
+Now the adaptive immune system consists of highly specialized systemic cells and processes
+
+14
+00:01:03,920 --> 00:01:09,100
+that are separated into two main components, the humoral and cellular.
+
+15
+00:01:09,100 --> 00:01:14,520
+The humoral immunity is mediated by activated B cells that produce and secrete antibodies
+
+16
+00:01:14,520 --> 00:01:17,120
+against a specific antigen.
+
+17
+00:01:17,120 --> 00:01:23,340
+On the other hand, the cellular immunity is mediated by T lymphocytes, also called T cells.
+
+18
+00:01:23,340 --> 00:01:27,600
+Now T cells circulate throughout the body until they recognize a specific antigen they
+
+19
+00:01:27,600 --> 00:01:33,380
+are programmed for, on the surface of antigen-presenting cells, such as dendritic cells.
+
+20
+00:01:33,380 --> 00:01:40,020
+The T cell receptor on both CD4-positive helper T cells and CD8-positive cytotoxic T cells
+
+21
+00:01:40,020 --> 00:01:45,820
+binds to the antigen as it is held in a structure called the Major Histocompatibility Complex
+
+22
+00:01:45,820 --> 00:01:52,340
+– MHC for short – in order to discriminate for and from self-antigens and initiate adaptive
+
+23
+00:01:52,340 --> 00:01:54,620
+immune responses.
+
+24
+00:01:54,640 --> 00:02:00,560
+This sets off a signaling cascade that allows T cells to replicate, differentiate, and secrete
+
+25
+00:02:00,560 --> 00:02:05,240
+signaling proteins called cytokines, which in turn activate more cells of the immune
+
+26
+00:02:05,240 --> 00:02:07,080
+system.
+
+27
+00:02:07,080 --> 00:02:12,640
+Now depending on the type of T cell, either the core receptor CD8 or CD4 binds to the
+
+28
+00:02:12,640 --> 00:02:14,200
+MHC molecule.
+
+29
+00:02:14,200 --> 00:02:19,280
+The signal transduction is then carried through CD3 that is physically associated with a T
+
+30
+00:02:19,280 --> 00:02:20,800
+cell receptor.
+
+31
+00:02:20,800 --> 00:02:26,060
+However this initial signal is not sufficient for T cell activation, therefore a secondary
+
+32
+00:02:26,060 --> 00:02:28,300
+signal is required.
+
+33
+00:02:28,300 --> 00:02:34,040
+This secondary signal, also referred to as costimulation, occurs when CD28 receptor expressed
+
+34
+00:02:34,040 --> 00:02:41,100
+on T cells binds CD80 and CD86 molecules that are expressed on antigen-presenting cells,
+
+35
+00:02:41,100 --> 00:02:45,900
+thereby triggering a calcium-mediated signaling cascade.
+
+36
+00:02:45,900 --> 00:02:51,120
+Basically a rise in intracellular calcium levels leads to a stepwise activation of the
+
+37
+00:02:51,120 --> 00:02:57,120
+phosphatase calcine urine, an enzyme that dephosphorylates nuclear factor of activated
+
+38
+00:02:57,120 --> 00:03:02,740
+T cells – NFAT for short – which in turn allows it to translocate from the cytoplasm
+
+39
+00:03:02,740 --> 00:03:05,680
+into the nucleus.
+
+40
+00:03:05,680 --> 00:03:11,080
+Inside the nucleus, NFAT proteins bind DNA target sequences in cooperation with partnering
+
+41
+00:03:11,080 --> 00:03:16,980
+transcription factors, leading to activation of genes encoding cytokines, one of which
+
+42
+00:03:16,980 --> 00:03:22,740
+is a major growth factor called interleukin-2, IL-2 for short.
+
+43
+00:03:22,740 --> 00:03:28,900
+Now generated interleukin-2 binds to the interleukin-2 receptors on the surface of T cells activating
+
+44
+00:03:28,900 --> 00:03:34,780
+a signaling protein called a mammalian target of rapamycin, mTOR for short, thereby allowing
+
+45
+00:03:34,780 --> 00:03:39,820
+the cell to progress through the cell cycle, promoting cell proliferation of antigen-prime
+
+46
+00:03:39,840 --> 00:03:46,600
+T cells, which subsequently produce more interleukin-2, as well as other pro-inflammatory cytokines
+
+47
+00:03:46,600 --> 00:03:52,040
+activating natural killer cells, macrophages, and cytotoxic T cells.
+
+48
+00:03:52,040 --> 00:03:57,720
+Alright, so the immune system is critical to survival in an environment full of pathogenic
+
+49
+00:03:57,720 --> 00:03:58,720
+microbes.
+
+50
+00:03:58,720 --> 00:04:04,760
+However, this vital system is not always protective, as deregulation of immune responses can lead
+
+51
+00:04:04,760 --> 00:04:09,500
+to chronic inflammatory diseases such as autoimmunity or cancer.
+
+52
+00:04:09,500 --> 00:04:14,620
+Moreover, the immune system serves as a barrier for the transplantation of certain beneficial
+
+53
+00:04:14,620 --> 00:04:16,180
+organs and tissues.
+
+54
+00:04:16,180 --> 00:04:21,820
+Therefore, a continuous use of immunosuppressive drugs is the standard of care for managing
+
+55
+00:04:21,820 --> 00:04:25,380
+autoimmunity and transplant rejection.
+
+56
+00:04:25,380 --> 00:04:29,380
+Now immunosuppressive drug therapy usually consists of two or more agents with different
+
+57
+00:04:29,380 --> 00:04:34,240
+mechanisms of action that disrupt various levels of T cell activation.
+
+58
+00:04:34,240 --> 00:04:39,220
+So let's discuss these one by one, starting with calcine urine inhibitors.
+
+59
+00:04:39,220 --> 00:04:44,780
+Drugs in this group work by binding to intracellular proteins called immunophilins.
+
+60
+00:04:44,780 --> 00:04:50,300
+Immunophilins consist of two protein families, known as cyclophilins and FK-binding proteins,
+
+61
+00:04:50,300 --> 00:04:57,400
+and are the major receptors for the immunosuppressive drugs cyclosporine and tacrolimus, respectively.
+
+62
+00:04:57,400 --> 00:05:02,420
+These complexes then bind to and inhibit calcine urine, thereby preventing nuclear factor of
+
+63
+00:05:02,420 --> 00:05:07,680
+activated T cells from moving to the nucleus, which ultimately impairs transcription of
+
+64
+00:05:07,680 --> 00:05:13,200
+the genes encoding interleukin-2 that is necessary for activation of T cells.
+
+65
+00:05:13,200 --> 00:05:19,640
+Alright, moving on to the next group of immunosuppressants, that is costimulation blockers.
+
+66
+00:05:19,640 --> 00:05:25,120
+Drugs in this group include belatacept and abatacept, which work by selectively binding
+
+67
+00:05:25,120 --> 00:05:32,000
+to CD80 and CD86 on antigen-presenting cells, thereby blocking interaction with CD28 on
+
+68
+00:05:32,000 --> 00:05:33,660
+T cells.
+
+69
+00:05:33,660 --> 00:05:39,940
+This in turn prevents complete T cell activation, reduces T cell proliferation and interleukin-2
+
+70
+00:05:39,940 --> 00:05:41,360
+production.
+
+71
+00:05:41,360 --> 00:05:45,480
+That being said, it's important to remember here that belatacept was designed to bind
+
+72
+00:05:45,480 --> 00:05:52,060
+to CD80 and CD86 more strongly than abatacept and thus has been shown to be more effective
+
+73
+00:05:52,060 --> 00:05:56,340
+in the immunosuppression necessary for transplant rejection.
+
+74
+00:05:56,340 --> 00:06:01,780
+Now moving on to our third group of immunosuppressants, that is mTOR inhibitors.
+
+75
+00:06:01,780 --> 00:06:07,820
+Drugs in this group include sirolimus, also known as rapamycin, and everolimus, which
+
+76
+00:06:07,820 --> 00:06:13,480
+work by binding to the same intracellular FK-binding protein as tacrolimus, however
+
+77
+00:06:13,480 --> 00:06:19,400
+instead of forming a complex with calcine urine, sirolimus and everolimus subsequently
+
+78
+00:06:19,400 --> 00:06:23,360
+bind to mTOR, thereby inhibiting its activity.
+
+79
+00:06:23,360 --> 00:06:28,280
+This ultimately leads to slowing or arrest of cell cycle progression, as well as inhibition
+
+80
+00:06:28,280 --> 00:06:32,260
+of the cellular response to interleukin-2.
+
+81
+00:06:32,260 --> 00:06:37,180
+Alright moving on to the next class of drugs that is immunosuppressive antimetabolites.
+
+82
+00:06:37,180 --> 00:06:42,960
+The two most commonly used agents in this class are azathioprine and mycophenolate mofetil,
+
+83
+00:06:42,960 --> 00:06:46,280
+which have similar but unique mechanism of action.
+
+84
+00:06:46,280 --> 00:06:52,760
+So the first one azathioprine is first activated to become 6 mercapto purine, 6MP for short,
+
+85
+00:06:52,760 --> 00:06:57,260
+which is then further metabolized to form purine analogs that mimic the structure of
+
+86
+00:06:57,260 --> 00:06:59,720
+a building block of DNA.
+
+87
+00:06:59,720 --> 00:07:04,680
+These false purines in turn can disrupt the novel pathway of purine synthesis, as well
+
+88
+00:07:04,680 --> 00:07:10,600
+as become incorporated into DNA and RNA, thus terminating their synthesis, ultimately inhibiting
+
+89
+00:07:10,600 --> 00:07:13,640
+cellular proliferation.
+
+90
+00:07:13,640 --> 00:07:19,720
+Now in contrast, the second agent, mycophenolate mofetil, works by inhibiting inosine monophosphate
+
+91
+00:07:19,720 --> 00:07:25,920
+dehydrogenase, IMPDH for short, a key enzyme in purine synthesis, which is involved in
+
+92
+00:07:25,920 --> 00:07:28,820
+the production of guanosine nucleotides.
+
+93
+00:07:28,820 --> 00:07:33,960
+As a result, DNA synthesis, which requires guanosine triphosphate, does not occur and
+
+94
+00:07:33,960 --> 00:07:36,060
+cell proliferation is inhibited.
+
+95
+00:07:36,060 --> 00:07:42,120
+However, unlike azathioprine, mycophenolate is not incorporated into DNA and does not
+
+96
+00:07:42,120 --> 00:07:45,180
+induce chromosome breaks.
+
+97
+00:07:45,180 --> 00:07:49,840
+Now another class of drugs that is often used for immunosuppression in both transplantation
+
+98
+00:07:49,840 --> 00:07:53,920
+and various autoimmune disorders is corticosteroids.
+
+99
+00:07:53,920 --> 00:07:59,620
+Drugs that belong to this class include prednisone, prednisolone, and methylprednisolone.
+
+100
+00:07:59,620 --> 00:08:05,180
+So the effects of corticosteroids are diverse and are likely controlled by several mechanisms.
+
+101
+00:08:05,180 --> 00:08:09,620
+One mechanism by which corticosteroids induce immunosuppression is through regulation of
+
+102
+00:08:09,620 --> 00:08:11,980
+the T-cell responses.
+
+103
+00:08:11,980 --> 00:08:17,200
+Acting directly on T-cells, corticosteroids mediate their effects by binding to the intracellular
+
+104
+00:08:17,200 --> 00:08:22,740
+glucocorticoid receptor, resulting in translocation of the complex to the nucleus and subsequent
+
+105
+00:08:22,740 --> 00:08:28,580
+inhibition of key transcription factors, such as nuclear factor kappaB and activator
+
+106
+00:08:28,580 --> 00:08:35,860
+protein 1, which ultimately alters gene transcription and represses pro-inflammatory genes.
+
+107
+00:08:35,860 --> 00:08:41,300
+In addition to this, corticosteroids exert non-genomic actions by causing rapid dissociation
+
+108
+00:08:41,300 --> 00:08:47,660
+of a T-cell receptor-associated protein complexes, resulting in impaired receptor signaling and
+
+109
+00:08:47,660 --> 00:08:49,460
+T-cell activation.
+
+110
+00:08:49,460 --> 00:08:55,260
+Finally, moving on to our last class of immunosuppressants, that is, antibodies.
+
+111
+00:08:55,260 --> 00:08:59,340
+Now although many different antibody products exist, for the purpose of this lecture we
+
+112
+00:08:59,340 --> 00:09:03,260
+are gonna focus here only on the two that are most commonly used to prevent transplant
+
+113
+00:09:03,260 --> 00:09:04,820
+rejection.
+
+114
+00:09:04,820 --> 00:09:10,820
+The first such product is anti-timocyte globulins, which consists of polyclonal antibodies that
+
+115
+00:09:10,820 --> 00:09:15,660
+bind to a wide variety of proteins on the surface of T-cells, leading to cell death
+
+116
+00:09:15,660 --> 00:09:20,420
+via complement-mediated cytotoxicity or apoptosis.
+
+117
+00:09:20,420 --> 00:09:26,020
+The second antibody product commonly used in transplant is basiliximab, which is a monoclonal
+
+118
+00:09:26,020 --> 00:09:32,160
+antibody that binds to interleukin-2 receptor with similar affinity as interleukin-2, thereby
+
+119
+00:09:32,160 --> 00:09:37,660
+effectively competing with interleukin-2 and subsequently inhibiting interleukin-2-driven
+
+120
+00:09:37,660 --> 00:09:40,780
+T-cell proliferation.
+
+121
+00:09:40,780 --> 00:09:45,340
+And with that I wanted to thank you for watching, I hope you enjoyed this video, and as always
+
+122
+00:09:45,340 --> 00:09:46,300
+stay tuned for more!
+

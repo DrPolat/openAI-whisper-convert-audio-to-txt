@@ -1,0 +1,122 @@
+In this lecture we are gonna cover the pharmacology of immunosuppressants, so let's get right
+into it.
+The immune system is a complex network of cells and proteins that work together to defend
+the body against substances it sees as harmful or foreign.
+Now the human immune system has two levels of immunity, innate and adaptive.
+The innate immunity is nonspecific and fast-acting, and serves as the primary line of protection
+against pathogen invasion.
+Numerous cells are involved in the innate immune response, including natural killer
+cells, mast cells and granulocytes, as well as the phagocytic cells such as macrophages,
+dendritic cells and monocytes, that utilize phagocytosis and are equipped with receptors
+which recognize a variety of microbial products known as antigens, resulting in activation
+of the slower-acting, but more specific, adaptive immune system.
+Now the adaptive immune system consists of highly specialized systemic cells and processes
+that are separated into two main components, the humoral and cellular.
+The humoral immunity is mediated by activated B cells that produce and secrete antibodies
+against a specific antigen.
+On the other hand, the cellular immunity is mediated by T lymphocytes, also called T cells.
+Now T cells circulate throughout the body until they recognize a specific antigen they
+are programmed for, on the surface of antigen-presenting cells, such as dendritic cells.
+The T cell receptor on both CD4-positive helper T cells and CD8-positive cytotoxic T cells
+binds to the antigen as it is held in a structure called the Major Histocompatibility Complex
+– MHC for short – in order to discriminate for and from self-antigens and initiate adaptive
+immune responses.
+This sets off a signaling cascade that allows T cells to replicate, differentiate, and secrete
+signaling proteins called cytokines, which in turn activate more cells of the immune
+system.
+Now depending on the type of T cell, either the core receptor CD8 or CD4 binds to the
+MHC molecule.
+The signal transduction is then carried through CD3 that is physically associated with a T
+cell receptor.
+However this initial signal is not sufficient for T cell activation, therefore a secondary
+signal is required.
+This secondary signal, also referred to as costimulation, occurs when CD28 receptor expressed
+on T cells binds CD80 and CD86 molecules that are expressed on antigen-presenting cells,
+thereby triggering a calcium-mediated signaling cascade.
+Basically a rise in intracellular calcium levels leads to a stepwise activation of the
+phosphatase calcine urine, an enzyme that dephosphorylates nuclear factor of activated
+T cells – NFAT for short – which in turn allows it to translocate from the cytoplasm
+into the nucleus.
+Inside the nucleus, NFAT proteins bind DNA target sequences in cooperation with partnering
+transcription factors, leading to activation of genes encoding cytokines, one of which
+is a major growth factor called interleukin-2, IL-2 for short.
+Now generated interleukin-2 binds to the interleukin-2 receptors on the surface of T cells activating
+a signaling protein called a mammalian target of rapamycin, mTOR for short, thereby allowing
+the cell to progress through the cell cycle, promoting cell proliferation of antigen-prime
+T cells, which subsequently produce more interleukin-2, as well as other pro-inflammatory cytokines
+activating natural killer cells, macrophages, and cytotoxic T cells.
+Alright, so the immune system is critical to survival in an environment full of pathogenic
+microbes.
+However, this vital system is not always protective, as deregulation of immune responses can lead
+to chronic inflammatory diseases such as autoimmunity or cancer.
+Moreover, the immune system serves as a barrier for the transplantation of certain beneficial
+organs and tissues.
+Therefore, a continuous use of immunosuppressive drugs is the standard of care for managing
+autoimmunity and transplant rejection.
+Now immunosuppressive drug therapy usually consists of two or more agents with different
+mechanisms of action that disrupt various levels of T cell activation.
+So let's discuss these one by one, starting with calcine urine inhibitors.
+Drugs in this group work by binding to intracellular proteins called immunophilins.
+Immunophilins consist of two protein families, known as cyclophilins and FK-binding proteins,
+and are the major receptors for the immunosuppressive drugs cyclosporine and tacrolimus, respectively.
+These complexes then bind to and inhibit calcine urine, thereby preventing nuclear factor of
+activated T cells from moving to the nucleus, which ultimately impairs transcription of
+the genes encoding interleukin-2 that is necessary for activation of T cells.
+Alright, moving on to the next group of immunosuppressants, that is costimulation blockers.
+Drugs in this group include belatacept and abatacept, which work by selectively binding
+to CD80 and CD86 on antigen-presenting cells, thereby blocking interaction with CD28 on
+T cells.
+This in turn prevents complete T cell activation, reduces T cell proliferation and interleukin-2
+production.
+That being said, it's important to remember here that belatacept was designed to bind
+to CD80 and CD86 more strongly than abatacept and thus has been shown to be more effective
+in the immunosuppression necessary for transplant rejection.
+Now moving on to our third group of immunosuppressants, that is mTOR inhibitors.
+Drugs in this group include sirolimus, also known as rapamycin, and everolimus, which
+work by binding to the same intracellular FK-binding protein as tacrolimus, however
+instead of forming a complex with calcine urine, sirolimus and everolimus subsequently
+bind to mTOR, thereby inhibiting its activity.
+This ultimately leads to slowing or arrest of cell cycle progression, as well as inhibition
+of the cellular response to interleukin-2.
+Alright moving on to the next class of drugs that is immunosuppressive antimetabolites.
+The two most commonly used agents in this class are azathioprine and mycophenolate mofetil,
+which have similar but unique mechanism of action.
+So the first one azathioprine is first activated to become 6 mercapto purine, 6MP for short,
+which is then further metabolized to form purine analogs that mimic the structure of
+a building block of DNA.
+These false purines in turn can disrupt the novel pathway of purine synthesis, as well
+as become incorporated into DNA and RNA, thus terminating their synthesis, ultimately inhibiting
+cellular proliferation.
+Now in contrast, the second agent, mycophenolate mofetil, works by inhibiting inosine monophosphate
+dehydrogenase, IMPDH for short, a key enzyme in purine synthesis, which is involved in
+the production of guanosine nucleotides.
+As a result, DNA synthesis, which requires guanosine triphosphate, does not occur and
+cell proliferation is inhibited.
+However, unlike azathioprine, mycophenolate is not incorporated into DNA and does not
+induce chromosome breaks.
+Now another class of drugs that is often used for immunosuppression in both transplantation
+and various autoimmune disorders is corticosteroids.
+Drugs that belong to this class include prednisone, prednisolone, and methylprednisolone.
+So the effects of corticosteroids are diverse and are likely controlled by several mechanisms.
+One mechanism by which corticosteroids induce immunosuppression is through regulation of
+the T-cell responses.
+Acting directly on T-cells, corticosteroids mediate their effects by binding to the intracellular
+glucocorticoid receptor, resulting in translocation of the complex to the nucleus and subsequent
+inhibition of key transcription factors, such as nuclear factor kappaB and activator
+protein 1, which ultimately alters gene transcription and represses pro-inflammatory genes.
+In addition to this, corticosteroids exert non-genomic actions by causing rapid dissociation
+of a T-cell receptor-associated protein complexes, resulting in impaired receptor signaling and
+T-cell activation.
+Finally, moving on to our last class of immunosuppressants, that is, antibodies.
+Now although many different antibody products exist, for the purpose of this lecture we
+are gonna focus here only on the two that are most commonly used to prevent transplant
+rejection.
+The first such product is anti-timocyte globulins, which consists of polyclonal antibodies that
+bind to a wide variety of proteins on the surface of T-cells, leading to cell death
+via complement-mediated cytotoxicity or apoptosis.
+The second antibody product commonly used in transplant is basiliximab, which is a monoclonal
+antibody that binds to interleukin-2 receptor with similar affinity as interleukin-2, thereby
+effectively competing with interleukin-2 and subsequently inhibiting interleukin-2-driven
+T-cell proliferation.
+And with that I wanted to thank you for watching, I hope you enjoyed this video, and as always
+stay tuned for more!
